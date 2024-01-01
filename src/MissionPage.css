@@ -1,0 +1,21 @@
+.m1 {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  m2 {
+    text-align: center;
+  }
+  .m3 {
+    color: #0055cc;
+  }
+  .m4 {
+    margin-bottom: 20px;
+  }
+  .our-mission-image {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+  }

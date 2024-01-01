@@ -1,0 +1,111 @@
+  
+        <div class="bgout">
+        <section class="section section-in-the-kitchen section-scenario long-headline will-change" data-component-list="Scenario Parallax" data-anim-scroll-group="Scenario: In the kitchen." data-analytics-section-engagement="name:in the kitchen">
+        
+        <div class="section-content">
+            <div class="section-scenario-intro">
+                <h2 data-text-zoom-max="1.2" class="hight2">In the kitchen.</h2>
+            </div>
+            <div class="grid align-hw-bottom grid-main">
+                <div class="cp">
+                    <p class="copy typography-eyebrow-elevated">Multitask without the mess. Set&nbsp;timers, convert measurements, and call everyone to the table with Intercom on HomePod. Without getting pizza sauce all over your&nbsp;iPad.</p>
+                </div>
+                <div class="image-wrapper-sticky" aria-hidden="true">
+                    <picture id="overview-kitchen-ipad-1" class="overview-kitchen-ipad sticky-hw loaded" data-lazy="" data-download-area-keyframe="{&quot;breakpointMask&quot;: &quot;LM&quot;}" data-picture-loaded="">  
+                    </picture>
+                </div>
+                <div class="main-tile large-span-12 grid">
+                    <div class="hey-siri parallax-this" >
+                        <picture id="overview-kitchen-quote-1" class="overview-kitchen-quote quote-icon loaded" data-lazy="" data-picture-loaded="">  
+                            </picture>
+                        <h3 class="typography-headline-elevated main-tile-headline" data-text-zoom-max="1.7"><span class="gradient">Hey&nbsp;kjhhj,</span> set a pizza&nbsp;timer for 12&nbsp;minutes</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-tiles">
+                <div class="scenario-tile in-the-kitchen-tile large-span-6 small-span-12 parallax-this tile-1 dark" >
+                    <div class="tile-content">
+                        <h3 class="hight" data-text-zoom-max="1.7">Hey&nbsp;hbjhg, how many tablespoons are in one-quarter&nbsp;cup?</h3>
+                    </div>
+                    <picture id="overview-kitchen-tile-1-1" class="overview-kitchen-tile-1 tile-image loaded" data-lazy="" data-picture-loaded=""></picture>
+                    
+                </div>
+                <div class="scenario-tile in-the-kitchen-tile large-span-6 small-span-12 parallax-this tile-2 align-bottom">
+                  <div class="tile-content">
+                    <h3 class="typography-headline tile-content-headline" data-text-zoom-max="1.7">Hey&nbsp;lhkj, intercom to&nbsp;Daniel’s room, ‘Dinner’s ready’</h3>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        </div>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="d1">
+      <head></head>
+        <h1 class="d2">Diabetes Specialists and Hospital Details</h1>
+        <div class="grid grid-tiles">
+          <div class="scenario-tile in-the-kitchen-tile large-span-6 small-span-12 parallax-this tile-1 dark" >
+            <div class="tile-content">
+              <h3 class="hight" data-text-zoom-max="1.7">Hey&nbsp;Dr. John Smith&nbsp;cup?</h3>
+            </div>
+            <section>
+              <div class="doctor-container">
+                <img class="doctor-image" src="doctor1_image_url_here" alt="Doctor 1"></img>
+                
+                <p class="d4">Specialty: Endocrinology</p>
+                <p class="d4">Education: MD, Board Certified in Endocrinology</p>
+                <p>Experience: Over 15 years</p>
+                <div class="hospital-address">
+                  <h3>Hospital Address:</h3>
+                  <p class="d4">ABC Medical Center</p>
+                  <p class="d4">123 Main Street</p>
+                  <p class="d4">City, State 12345</p>
+                </div>
+              </div>
+            </section>
+          </div>
+          <div class="scenario-tile in-the-kitchen-tile large-span-6 small-span-12 parallax-this tile-2 align-bottom">
+            <div class="tile-content">
+              <h3 class="typography-headline tile-content-headline" data-text-zoom-max="1.7">Hey&nbsp;lhkj, intercom to&nbsp;Daniel’s room, ‘Dinner’s ready’</h3>
+            </div>
+            <section>
+              <div class="doctor-container">
+                <img class="doctor-image" src="doctor2_image_url_here" alt="Doctor 2"></img>
+                <h2 class="d3">Dr. Emily Johnson</h2>
+                <p class="d4">Specialty: Internal Medicine</p>
+                <p class="d4">Education: MD, Board Certified in Internal Medicine</p>
+                <p class="d4">Experience: Over 10 years</p>
+                <div class="hospital-address">
+                  <h3>Hospital Address:</h3>
+                  <p class="d4">XYZ Medical Center</p>
+                  <p class="d4">456 Oak Avenue</p>
+                  <p class="d4">City, State 67890</p>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+
+
+
+
+
